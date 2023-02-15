@@ -1,0 +1,9 @@
+.header{
+    background-color: black;
+    color: rgb(30, 223, 0);
+}
+
+.header h1{
+    margin-top: 0;
+    padding: 20px;
+}
