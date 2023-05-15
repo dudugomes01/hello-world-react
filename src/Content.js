@@ -4,7 +4,7 @@ import './Content.css'
 const Content = ({titulo, children}) =>{
     return (
         <article className="content">
-            {titulo}
+            <h1>{titulo}</h1>
             {children}
         </article>
     )
